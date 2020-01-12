@@ -9,7 +9,7 @@ Your Login and Password
 If you want you can change sleep time :)
 
 
-Cheers !!
+Cheers !
 
 
 
